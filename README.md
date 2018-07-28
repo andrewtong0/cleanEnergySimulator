@@ -3,7 +3,7 @@ Simple simulation of creating an energy farm
 
 Simple non-scientific energy simulation game made for a STEM talk for kids.
 
-![Display](https://imgur.com/a/mX3glRZ)
+![Display](https://i.imgur.com/gxvQ8P5.jpg)
 
 ### Controls
 * 1 - Select solar panels
