@@ -1,4 +1,4 @@
-# ip_cleanEnergySimulator2018
+# Clean Energy Simulator
 Simple simulation of creating an energy farm, a non-scientific energy simulation game made for a STEM talk for kids.
 
 ![Display](https://i.imgur.com/gxvQ8P5.jpg)
